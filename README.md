@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guanizorommel
-- 👀 I am a career shifter. from sytem admin into Web Developer.
-- 🌱 I’m currently learning the fundamentals of  HTML,CSS and Javascript languages. I just started last year, October 2020.
-- 💞️ I’m looking to become more proficient in Web Development specially for leading languages or framework used by enterprise companies.
+- 👀 I am a career shifter. from Sys Admin into Front End - Web Developer.
+- 🌱 I am currently learning the fundamentals of  HTML,CSS and Javascript languages while PHP and MySql for the Backend. I just started last year, October 2020.
+- 💞️ I am looking forward to become more proficient in Front End Web Development and Create usable easy to use Web Application or Website in the future that will be consumed by medium companies not just in The Philippines but in the whole world. 
 - 📫 View my Portfolio at https://guanizorommel.github.io/portfolio/
 
 <!---
