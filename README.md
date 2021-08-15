@@ -1,8 +1,9 @@
 
 
 - 👋 Hi, I’m @guanizorommel
-- 👀 I am a career shifter. from Sys Admin into Front End - Web Developer.
-- 🌱 I am currently learning the fundamentals of  HTML,CSS and Javascript languages while PHP and MySql for the Backend. I just started last year 2020.
+- 👀 I am a career shifter. from System Admin into Front End - Web Developer.
+- 👀 I started a new Job as a Developer Analyst I in RealPage Inc. this August 2021.
+- 🌱 I am currently masterting the fundamentals of  HTML,CSS and Javascript languages while PHP and MySql for the Backend. I just started last year 2020.
 - 💞️ I am looking forward to become more proficient in Front End Web Development and Create usable easy to use Web Application or Website in the future that will be consumed by medium companies not just in The Philippines but in the whole world. 
 - 📫 View my Portfolio at https://guanizorommel.github.io/portfolio/
 
